@@ -1,0 +1,4 @@
+*.pem
+*.csr
+serial.txt*
+index.txt*
